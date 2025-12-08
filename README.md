@@ -1,7 +1,9 @@
-<h1 align="center"> 🌟 Financial Accounting With Tally Prime</h1><br>
+<h1 align="center"> 🌟 Financial Accounting With Tally Prime</h1>
 
 ---
 
+
+<br>
 <h2 align="center"> 🧩 1. What is Financial Accounting?</h2>
 
 Financial Accounting is the **systematic recording, summarizing, and reporting** of business transactions.
